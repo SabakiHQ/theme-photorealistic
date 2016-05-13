@@ -1,0 +1,54 @@
+/* This stylesheet is loaded when Sabaki starts up. */
+
+.goban {
+    border-color: #966009;
+}
+
+.goban,
+.goban .row li .stone span::before,
+.goban .row li .stone span::after,
+.goban .row li.cross .stone span {
+        background-color: #CB9838;
+        background-image: url('go-assets/wood_full_lighter.jpg');
+        background-size: cover;
+    }
+    .goban .row li.triangle .stone span::after {
+        border-bottom-color: #CB9838;
+}
+
+.goban li.sign_1 .stone img {
+        background-image: url('go-assets/black_00.png');
+    }
+    .goban li.sign_1.random_1 .stone img {
+        background-image: url('go-assets/black_01.png');
+    }
+    .goban li.sign_1.random_2 .stone img {
+        background-image: url('go-assets/black_02.png');
+    }
+    .goban li.sign_1.random_3 .stone img {
+        background-image: url('go-assets/black_03.png');
+}
+
+.goban li.sign_-1 .stone img {
+        background-image: url('go-assets/white_00.png');
+    }
+    .goban li.sign_-1.random_1 .stone img {
+        background-image: url('go-assets/white_08.png');
+    }
+    .goban li.sign_-1.random_2 .stone img {
+        background-image: url('go-assets/white_07.png');
+    }
+    .goban li.sign_-1.random_3 .stone img {
+        background-image: url('go-assets/white_06.png');
+    }
+    .goban li.sign_-1.random_4 .stone img {
+        background-image: url('go-assets/white_10.png');
+}
+
+.goban li.sign_1 .stone::before, .goban li.sign_-1 .stone::before {
+        box-shadow: 2px 2px .18em black;
+        opacity: .4;
+    }
+    .goban li.sign_1 .stone::before {
+        opacity: .5;
+}

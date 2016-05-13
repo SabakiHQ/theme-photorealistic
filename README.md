@@ -6,7 +6,7 @@ Photorealistic userstyle for [Sabaki](http://sabaki.yichuanshen.de/) using [Andr
 
 ## Installation
 
-[Download](https://github.com/yishn/sabaki_photorealistic_theme/releases) the latest release and extract everything under:
+You need [Sabaki v0.14.0](http://sabaki.yichuanshen.de/) or later. [Download](https://github.com/yishn/sabaki_photorealistic_theme/releases) the latest release and extract everything under:
 
 * `%APPDATA%\Sabaki` on Windows
 * `$XDG_CONFIG_HOME/Sabaki` or `~/.config/Sabaki` on Linux

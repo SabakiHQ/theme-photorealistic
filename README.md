@@ -14,4 +14,4 @@ Photorealistic userstyle for [Sabaki](http://sabaki.yichuanshen.de/) using [**@a
 
 ## License
 
-The stylesheet is released under the [MIT license](LICENSE.md). The images are licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
+The code is released under [public domain](http://creativecommons.org/publicdomain/zero/1.0/). The images are licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).

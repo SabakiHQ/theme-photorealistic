@@ -1,19 +1,19 @@
 /* This stylesheet is loaded when Sabaki starts up. */
 
 .goban {
-    border-color: #966009;
+    border-color: #A57014;
 }
 
 .goban,
 .goban .row li .stone span::before,
 .goban .row li .stone span::after,
 .goban .row li.cross .stone span {
-        background-color: #CB9838;
-        background-image: url('go-assets/wood_full_lighter.jpg');
+        background-color: #D8A347;
+        background-image: url('go-assets/wood_used.jpg');
         background-size: cover;
     }
     .goban .row li.triangle .stone span::after {
-        border-bottom-color: #CB9838;
+        border-bottom-color: #D8A347;
 }
 
 .goban li.sign_1 .stone img {

@@ -1,6 +1,6 @@
 # sabaki_photorealistic_theme
 
-Photorealistic userstyle for [Sabaki](http://sabaki.yichuanshen.de/) using [Andreas Tarnowsky](https://github.com/atarnowsky)'s [go-assets](https://github.com/atarnowsky/go-assets) pack.
+Photorealistic userstyle for [Sabaki](http://sabaki.yichuanshen.de/) based on [Andreas Tarnowsky](https://github.com/atarnowsky)'s [go-assets](https://github.com/atarnowsky/go-assets) pack.
 
 ![Screenshot](screenshot.png)
 

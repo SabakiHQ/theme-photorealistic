@@ -1,6 +1,6 @@
 # sabaki_photorealistic_theme
 
-Photorealistic userstyle for [Sabaki](http://sabaki.yichuanshen.de/) based on [Andreas Tarnowsky](https://github.com/atarnowsky)'s [go-assets](https://github.com/atarnowsky/go-assets) pack.
+Photorealistic userstyle for [Sabaki](http://sabaki.yichuanshen.de/).
 
 ![Screenshot](screenshot.png)
 
@@ -14,4 +14,4 @@ You need [Sabaki v0.14.0](http://sabaki.yichuanshen.de/) or later. [Download](ht
 
 ## License
 
-The code is released under [public domain](http://creativecommons.org/publicdomain/zero/1.0/). The images are licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
+Everything is released under [public domain](http://creativecommons.org/publicdomain/zero/1.0/).

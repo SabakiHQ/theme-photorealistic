@@ -1,6 +1,6 @@
-# sabaki_photorealistic_theme
+# Photorealistic Theme for Sabaki
 
-Photorealistic userstyle for [Sabaki](http://sabaki.yichuanshen.de/).
+A photorealistic userstyle for [Sabaki](http://sabaki.yichuanshen.de/).
 
 ![Screenshot](screenshot.png)
 

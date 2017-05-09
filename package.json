@@ -1,0 +1,15 @@
+{
+  "name": "photorealistic-theme",
+  "version": "0.3.0",
+  "description": "Photorealistic",
+  "author": "Yichuan Shen",
+  "license": "CC0-1.0",
+  "homepage": "https://github.com/yishn/sabaki-photorealistic-theme",
+  "main": "styles.css",
+  "devDependencies": {
+    "asar": "^0.13.0"
+  },
+  "scripts": {
+    "build": "asar pack ./ ./build/photorealistic.asar --unpack-dir \"{.git,node_modules,build}\""
+  }
+}

@@ -10,6 +10,6 @@
     "asar": "^0.13.0"
   },
   "scripts": {
-    "build": "asar pack ./ ./build/photorealistic.asar --unpack-dir \"{.git,node_modules,build}\""
+    "build": "asar pack ./ ./build/photorealistic.theme.asar --unpack-dir \"{.git,node_modules,build}\""
   }
 }

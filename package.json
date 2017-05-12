@@ -1,15 +1,8 @@
 {
-  "name": "photorealistic-theme",
-  "version": "0.3.0",
-  "description": "A theme with photorealistic stones for Sabaki",
-  "author": "Yichuan Shen",
-  "license": "CC0-1.0",
-  "homepage": "https://github.com/yishn/sabaki-photorealistic-theme",
-  "main": "styles.css",
   "devDependencies": {
     "asar": "^0.13.0"
   },
   "scripts": {
-    "build": "asar pack ./ ./build/photorealistic.theme.asar --unpack-dir \"{.git,node_modules,build}\""
+    "build": "asar pack ./src ./build/photorealistic.theme.asar"
   }
 }

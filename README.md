@@ -21,7 +21,7 @@ npm install
 npm run build
 ~~~
 
-This will create `build/photorealistic.theme.asar`.
+This will create `build/photorealistic.sabakitheme.asar`.
 
 ## License
 

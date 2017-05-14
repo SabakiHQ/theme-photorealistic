@@ -1,6 +1,7 @@
 .goban {
-    color: #111;
+    color: #222;
     text-shadow: none;
+    font-weight: 600;
 }
 
 /* Stones */
@@ -21,7 +22,7 @@
         background-image: url('img/inner.svg');
     }
     .goban .row li.hoshi::after {
-        background-color: #111;
+        background-color: #222;
     }
     .goban .row:nth-child(3) li {
         background-image: url('img/side-n.svg');
@@ -51,6 +52,6 @@
 /* Markers */
 
 .goban .row li .stone span::after {
-    border-color: #111;
+    border-color: #222;
     box-shadow: none;
 }

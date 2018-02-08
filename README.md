@@ -6,7 +6,7 @@ A theme with photorealistic stones for [Sabaki](http://sabaki.yichuanshen.de/).
 
 ## Installation
 
-For [Sabaki](http://sabaki.yichuanshen.de/) v0.31.0 or later you can [download](https://github.com/yishn/sabaki_photorealistic_theme/releases) the theme file and install it directly inside Sabaki.
+For [Sabaki](http://sabaki.yichuanshen.de/) v0.31.0 or later you can [download](https://github.com/SabakiHQ/theme-photorealistic/releases) the theme file and install it directly inside Sabaki.
 
 For older version, download the archive and extract everything under:
 
